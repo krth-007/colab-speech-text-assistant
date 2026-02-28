@@ -29,11 +29,11 @@ Colab Speech-to-Text Assistant is a lightweight Python-based voice interaction p
 
 ## Example Output
 * Listening...
-You said: What is the time?
+Input: What is the time?
 Assistant: Current time in IST is 20:45
 
 * Listening...
-You said: Hello
+Input: Hello
 Assistant: Hello! How can I help you?
 
 ## Tech Stack
