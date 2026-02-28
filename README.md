@@ -3,9 +3,8 @@
 Colab Speech-to-Text Assistant is a lightweight Python-based voice interaction prototype designed to run in Google Colab. It demonstrates speech recognition, command handling, and basic assistant-style responses in a notebook-friendly environment.
 
 ## Features
-
-> Speech-to-text transcription using Python
-> Fully compatible with Google Colab
+* Speech-to-text transcription using Python
+* Fully compatible with Google Colab
 > Simple command-based interaction
 > Displays real-time recognized text
 > Handles Indian Standard Time (IST) formatting
